@@ -18,3 +18,9 @@ Hệ thống hỗ trợ doanh nghiệp quản lý quy trình kế toán mua hàn
 ## 4. Giao diện minh họa
 <img width="467" height="248" alt="image" src="https://github.com/user-attachments/assets/3c8e94b9-2cfc-43d4-b726-bbeaf1cd8e52" />
 <img width="451" height="255" alt="image" src="https://github.com/user-attachments/assets/354bf6ba-8940-400d-9af3-82ec50d24174" />
+<img width="451" height="255" alt="image" src="https://github.com/user-attachments/assets/5a61abdb-8369-4e42-a433-edeefb962077" />
+<img width="448" height="246" alt="image" src="https://github.com/user-attachments/assets/4a5768ad-e3e3-4ea4-a360-229b0fc2d329" />
+<img width="451" height="255" alt="image" src="https://github.com/user-attachments/assets/00e05485-7724-4f7f-8342-81c9fa7056a1" />
+
+
+
