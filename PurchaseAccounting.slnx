@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PurchaseAccounting.BLL/PurchaseAccounting.BLL.csproj" Id="c14d302f-db44-4b35-a997-4117ec717b36" />
+  <Project Path="PurchaseAccounting.DAL/PurchaseAccounting.DAL.csproj" Id="09aa3116-91e3-4f49-b378-78371db834bb" />
+  <Project Path="PurchaseAccounting/PurchaseAccounting.UI.csproj" />
+</Solution>
